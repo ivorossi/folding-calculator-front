@@ -1,0 +1,66 @@
+/* ---------------- UTILIDAD ----------------------*/
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+colorres {
+    color: #291509;
+    color: #3e370c;
+    color: #648bd4;
+    color: #c9d4e8;
+    color: #f3f3f3;
+}
+
+.links, .links:hover {
+    text-decoration: none;
+    color: #fff;
+}
+
+
+.form {
+    margin: 10px;
+}
+
+
+
+/* ---------------- //UTILIDAD ----------------------*/
+
+/* ---------------- REGISTER ----------------------*/
+
+.register {
+    background-color: #c9d4e8;
+    color: #000;
+    width: 22rem;
+    border: 1px solid #000;
+    border-radius: 10px;
+}
+
+/* ---------------- //REGISTER ----------------------*/
+
+/* ---------------- LOGIN ----------------------*/
+
+.login {
+    background-color: #c9d4e8;
+    color: #000;
+    width: 21rem;
+    border: 1px solid #000;
+    border-radius: 10px;
+}
+
+/* ---------------- //REGISTER ----------------------*/
+
+
+/* ---------------- MENSAJE DE LOGUEO ----------------------*/
+
+.offscreen {
+    position: absolute;
+    left: -9999px;
+}
+
+.errmsg {
+    background-color: lightpink;
+    color: firebrick;
+    font-weight: bold;
+    padding: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+/* ---------------- //MENSAJE DE LOGUEO ----------------------*/
